@@ -46,6 +46,9 @@
 ### b. Port berapakah pada server yang digunakan untuk service SMTP?
 ### c. Dari semua alamat IP yang tercapture, IP berapakah yang merupakan public IP?
 
+<img width="1221" alt="Screenshot 2023-09-22 at 14 58 32" src="https://github.com/Chrstnkevin/Jarkom-Modul-1-D29-2023/assets/110340182/fc2383f7-42fe-49db-9fff-c805b887b455">
+
+
 <img width="422" alt="Screenshot 2023-09-22 at 14 33 13" src="https://github.com/Chrstnkevin/Jarkom-Modul-1-D29-2023/assets/110340182/89660989-4a69-4f7c-be77-86c06704cc32">
 
 ##### Kendala: Tidak ada kendala selama pengerjaan
