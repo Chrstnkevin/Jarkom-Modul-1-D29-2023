@@ -53,7 +53,46 @@
 
 ##### Kendala: Tidak ada kendala selama pengerjaan
 
-### FILTERING
+## 6. Bantulah udin dan slamet untuk menemukan solusi kode error tersebut
+![image](https://github.com/Chrstnkevin/Jarkom-Modul-1-D29-2023/assets/97864068/c71330ba-9be5-481a-b7ac-261ae40d6842)
+
+Berdasarkan pertanyaan tersebut, dapat disimpulkan bahwa server dengan alamat sumber 7812 menunjukkan bahwa packet yang akan diidentifikasi adalah packet yang terdapat pada frame 7812. Oleh karena itu, dilakukan proses penyaringan dengan menggunakan syntax 'frame.number == 7812', yang kemudian menghasilkan informasi rinci sebagai berikut:
+
+![image](https://github.com/Chrstnkevin/Jarkom-Modul-1-D29-2023/assets/97864068/36c4320c-14e1-46cb-9a2f-4a516668c17d)
+
+dengan mengikuti hint ini kita bisa melihat bahwa angka yang dimasukkan adalah sebuah abjad
+![image](https://github.com/Chrstnkevin/Jarkom-Modul-1-D29-2023/assets/97864068/b2439fb2-5414-425b-b3c3-584240438f9c)
+
+| Angka | Abjad | Angka | Abjad |
+|-------|-------|-------|-------|
+| 1     | a     | 14    | n     |
+| 2     | b     | 15    | o     |
+| 3     | c     | 16    | p     |
+| 4     | d     | 17    | q     |
+| 5     | e     | 18    | r     |
+| 6     | f     | 19    | s     |
+| 7     | g     | 20    | t     |
+| 8     | h     | 21    | u     |
+| 9     | i     | 22    | v     |
+| 10    | j     | 23    | w     |
+| 11    | k     | 24    | x     |
+| 12    | l     | 25    | y     |
+| 13    | m     | 26    | z     |
+
+IP diatas menunjukkan ```104.18.14.101``` dimana jika dibagi menjadi 2 2 menjadi ```10 04 18 14 10 01``` dan jika ditranslate menjadi 
+| IP | Abjad |
+|-------|-------|
+| 10     | J     |
+| 04     | D     |
+| 18     | R     |
+| 14     | N     |
+| 10     | J     |
+| 01     | A     |
+
+Sehingga bisa dipecahkan menjadi JDRNJA
+
+![image](https://github.com/Chrstnkevin/Jarkom-Modul-1-D29-2023/assets/97864068/5d932259-c656-419a-b0b3-6cc7d012d6e4)
+
 ## 7. Berapa jumlah packet yang menuju IP 184.87.193.88?
 
 ![image](https://github.com/Chrstnkevin/Jarkom-Modul-1-D29-2023/assets/97864068/1cb7a0f4-67fc-4ce2-a880-cbdd075eb6f7)
